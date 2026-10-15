@@ -32,7 +32,7 @@ crop-recommendation-system/
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/crop-recommendation-system.git
+git clone https://github.com/trishak23/crop-recommendation-system.git
 cd crop-recommendation-system
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
