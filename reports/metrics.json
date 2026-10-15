@@ -1,0 +1,16 @@
+{
+  "best_model": "Gaussian Naive Bayes",
+  "cv_accuracy": {
+    "Decision Tree": 0.79125,
+    "k-Nearest Neighbours": 0.8808333333333334,
+    "Gaussian Naive Bayes": 0.9033333333333333,
+    "Logistic Regression": 0.8970833333333333,
+    "Random Forest": 0.8820833333333333
+  },
+  "test_accuracy": 0.8817,
+  "test_top3_accuracy": 1.0,
+  "test_macro_f1": 0.8821,
+  "n_classes": 12,
+  "n_train": 2400,
+  "n_test": 600
+}
